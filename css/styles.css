@@ -1,0 +1,18 @@
+body {
+    background-image: url(../img/background1\ .jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Arial', sans-serif;
+    background-color: transparent;
+    color: black;
+    margin: 0;
+    padding: 0;
+
+
+    nav.navbar {
+        background-color: rgba(255, 255, 255, 0.9);
+        /* Haciendo la barra de navegación semitransparente */
+        box-shadow: 0 0.25em 0.125em -0.125em gray;
+        padding: 1em;
+      }
