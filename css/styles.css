@@ -10,17 +10,9 @@ body {
   padding: 0;
 
 
-  p {
-    background-color: black;
-  }
-
-  h1 {
-    background-color: black;
-  }
-
   nav.navbar {
     background-color: rgba(255, 255, 255, 0.9);
-    /* Haciendo la barra de navegación semitransparente */
+    /* Barra de navegación semitransparente */
     box-shadow: 0 0.25em 0.125em -0.125em gray;
     padding: 1em;
   }
@@ -39,38 +31,49 @@ body {
   .container-fluid {
     padding: 2em;
     background-color: rgba(255, 255, 255, 0.9);
-    /* Haciendo el fondo del contenido semitransparente */
+    text-align: center;
+    /* Fondo del contenido semitransparente */
   }
 
   .container-fluid h1,
   .container-fluid p {
     color: #190d0d;
     background-color: transparent;
-    /* Cambiando el color del texto para que sea legible sobre la imagen de fondo */
+    text-align: center;
+
   }
 
   footer {
     margin-top: 2em;
     padding: 1em 0;
     background-color: rgba(52, 58, 64, 0.9);
-    /* Haciendo el fondo del pie de página semitransparente */
+    /* Fondo del pie de página semitransparente */
     color: #fff;
     font-size: 0.9em;
   }
 
-  .card-body {text-align: center;}
+  .card-body {
+    text-align: center;
+  }
 
-.card {
-  display: flex;
-  margin-bottom: 1.5em; /* Ajustar el margen inferior */
-}
+  .card {
+    display: flex;
+    margin-bottom: 1.5em;
+    /* Margen inferior */
+  }
 
-.card img {
-  display: flex;
-  border-radius: 0.2em; /* Ajustar el radio de la esquina */
-}
+  .card img {
+    display: flex;
+    border-radius: 0.2em;
+    /* Radio de la esquina */
+  }
 
-.card-body {
-  text-align: center;
-  margin-top: 1em; /* Ajustar el margen superior */
-}
+  .card-body {
+    text-align: center;
+    margin-top: 1em;
+    /* Margen superior */
+  }
+
+  h5 {
+    font-weight: bold;
+  }
