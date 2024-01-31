@@ -21,7 +21,7 @@
 <h2>Features 👀</h2>
 <p>Este es mi primer proyecto en la academia GeekHubs.</p>
 <p>El proyecto de este restaurante de pizzas consta de 3 páginas web enlazadas entre si (Inicio, Menú y Contacto)<br>
-<p>En este mi primer proyecto he tenido que tomar varias decisiones para una mejor presentación, la página principal se presenta con una descripción del restaurante y su logo en la parte central con una barra de navegación en larte superior todo se adapta a dispositivos móviles o pantallas mas con distintas resoluciones, en la maquetación de la página del menú he optado por el diseño en '<card>' para mayor claridad a la hora de visualizar los productos y la página contacto consta de varios inputs para rellenar los datos del cliente y realizar el pedido, he optado por un diseño minimalista en todo el diseño de la web, sin recargarla de colores y enfatizando en la claridad e intuición</p>
+<p>En este mi primer proyecto he tenido que tomar varias decisiones para una mejor presentación, la página principal se presenta con una descripción del restaurante y su logo en la parte central con una barra de navegación en la parte superior. Toda la página adapta a dispositivos móviles o pantallas con distintas resoluciones, en la maquetación de la página del menú he optado por el diseño en '<card>' para mayor claridad a la hora de visualizar los productos y la página contacto consta de varios inputs para rellenar los datos del cliente y realizar el pedido, he optado por un diseño minimalista en todo el diseño de la web, sin recargarla de colores y enfatizando en la claridad e intuición</p>
 <p>He utilizado la líbreria de Bootstrap para el diseño responsive, las barras de navegación, asi como para el aspecto de algunos elementos, modificando alguna de sus clases predefinidas a mi gusto</p>
 
 
@@ -42,4 +42,4 @@
 4. Modificando estilos y clases predefinidas.
 5. Añadiendo imágenes del Menú y modificando estilos.
 6. Modificando estilos, añadiendo descripciones, icon y limpiando código.
-7. Corrigiendo errores codigo, añadiendo imágen portada y modificando elementos.
+7. Corrigiendo errores código, añadiendo imágen portada y modificando elementos.
