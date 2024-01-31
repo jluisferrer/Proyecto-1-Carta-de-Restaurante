@@ -31,9 +31,6 @@
 ![menu](https://github.com/jluisferrer/Proyecto-1/assets/157707370/08ed0cf8-add4-449a-ae3a-ca08da930ac6)
 ![contacto](https://github.com/jluisferrer/Proyecto-1/assets/157707370/bad48f17-351b-4fca-a4cf-c37074fcdb7f)
 
-<h2>Autor ✏️</h2>
-- Jose Luis Ferrer
-
 <h2>Roadmap 🛠️</h2>
 
 1. Boceto del diseño y construcción del body.
@@ -43,3 +40,6 @@
 5. Añadiendo imágenes del Menú y modificando estilos.
 6. Modificando estilos, añadiendo descripciones, icon y limpiando código.
 7. Corrigiendo errores código, añadiendo imágen portada y modificando elementos.
+
+<h2>Autor ✏️</h2>
+- Jose Luis Ferrer
