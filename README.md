@@ -21,8 +21,8 @@
 <h2>Features 🛠️</h2>
 <p>Este es mi primer proyecto en la academia GeekHubs.</p>
 <p>El proyecto de este restaurante de pizzas consta de 3 páginas web enlazadas entre si (Inicio, Menú y Contacto)<br>
-<p>En este mi primer proyecto he tenido que tomar varias decisiones importantes para una mejor presentación, he optado por un diseño minimalista, sin recargarla de colores y enfatizando en la claridad e intuición de la página</p>
-<p>He utilizado la líbreria de Bootstrap para el diseño responsive y las barras de navegación, asi como para el aspecto de algunos elementos</p>
+<p>En este mi primer proyecto he tenido que tomar varias decisiones importantes para una mejor presentación, en la maquetación de la página del menú he optado por el diseño en '<card>'  he optado por un diseño minimalista, sin recargarla de colores y enfatizando en la claridad e intuición de la página</p>
+<p>He utilizado la líbreria de Bootstrap para el diseño responsive y las barras de navegación, asi como para el aspecto de algunos elementos, he modificado alguno de estos estilos predefinidos a mi gusto</p>
 
 
 <h2>Imágenes</h2>
