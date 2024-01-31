@@ -11,70 +11,73 @@ body {
 }
 
 
-  nav.navbar {
-    background-color: rgba(255, 255, 255, 0.9);
-    /* Barra de navegación semitransparente */
-    box-shadow: 0 0.25em 0.125em -0.125em gray;
-    padding: 1em;
-  }
+nav.navbar {
+  background-color: rgba(255, 255, 255, 0.9);
+  /* Barra de navegación semitransparente */
+  box-shadow: 0 0.25em 0.125em -0.125em gray;
+  padding: 1em;
+}
 
-  nav.navbar a.navbar-brand,
-  nav.navbar a.nav-link {
-    color: #333;
-    font-size: 1.2em;
-  }
+nav.navbar a.navbar-brand,
+nav.navbar a.nav-link {
+  color: #333;
+  font-size: 1.2em;
+}
 
-  nav.navbar a.navbar-brand:hover,
-  nav.navbar a.nav-link:hover {
-    color: #007bff;
-  }
+nav.navbar a.navbar-brand:hover,
+nav.navbar a.nav-link:hover {
+  color: #007bff;
+}
 
-  .container-fluid {
-    padding: 2em;
-    background-color: rgba(255, 255, 255, 0.9);
-    text-align: center;
-    /* Fondo del contenido semitransparente */
-  }
+.container-fluid {
+  padding: 2em;
+  background-color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  /* Fondo del contenido semitransparente */
+}
 
-  .container-fluid h1,
-  .container-fluid p {
-    color: #190d0d;
-    background-color: transparent;
-    text-align: center;
+.container-fluid h1,
+.container-fluid p {
+  color: #190d0d;
+  background-color: transparent;
+  text-align: center;
+  /* text-transform: uppercase; */
 
-  }
+}
 
-  footer {
-    margin-top: 2em;
-    padding: 1em 0;
-    background-color: rgba(52, 58, 64, 0.9);
-    /* Fondo del pie de página semitransparente */
-    color: #fff;
-    font-size: 0.9em;
-  }
+footer {
+  margin-top: 2em;
+  padding: 1em 0;
+  background-color: rgba(52, 58, 64, 0.9);
+  /* Fondo del pie de página semitransparente */
+  color: #fff;
+  font-size: 0.9em;
+}
 
-  .card-body {
-    text-align: center;
-  }
+.card-body {
+  text-align: center;
+}
 
-  .card {
-    display: flex;
-    margin-bottom: 1.5em;
-    /* Margen inferior */
-  }
+.card {
+  display: flex;
+  margin-bottom: 1.5em;
+  /* Margen inferior */
+}
 
-  .card img {
-    display: flex;
-    border-radius: 0.2em;
-    /* Radio de la esquina */
-  }
+.card img {
+  display: flex;
+  border-radius: 0.2em;
+  /* Radio de la esquina */
+}
 
-  .card-body {
-    text-align: center;
-    margin-top: 1em;
-    /* Margen superior */
-  }
+.card-body {
+  text-align: center;
+  margin-top: 1em;
+  /* Margen superior */
+}
 
-  h5 {
-    font-weight: bold;
-  }
+h5 {
+  font-weight: bold;
+}
+
+
